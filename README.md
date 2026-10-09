@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Vinicius Menarim 👋
 
-<!--
-**DevViniciusMenarim/DevViniciusMenarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software em Curitiba. Aqui compartilho projetos web que desenvolvi para praticar interfaces, APIs e bancos de dados.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎬 [Film Catalog](https://github.com/DevViniciusMenarim/Film-Catalog)
+
+Catálogo para descobrir filmes, consultar detalhes, salvar favoritos e organizar uma lista pessoal. Inclui filmes de demonstração e integração opcional com a API do TMDB.
+
+**Tecnologias:** React, Node.js, Express, MySQL e Docker.
+
+### ✅ [Task Flow](https://github.com/DevViniciusMenarim/Task-Flow)
+
+Aplicação para organizar tarefas e pessoas, com subtarefas, prazos, filtros e indicadores de progresso.
+
+**Tecnologias:** React, TypeScript, ASP.NET Core, SQL Server e Docker.
+
+Os dois repositórios incluem diagramas de arquitetura e instruções para executar com ou sem Docker.
